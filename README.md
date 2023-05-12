@@ -1,5 +1,9 @@
-### Hi there 👋
-
+### 👋 Hi there, I'm Alison.
+ - 📖 Majored in Foreign linguistics and applied linguistics.
+ - 👀 Interested in NLP and AIGC (any trendy tech gadgets).
+ - 🌱 Also big fan of growing plants & flowers.
+ - 💬 Ask me about how to use codes to amplify the linguistic research.
+ - 📫 How to reach me: alisonhjl11@outlook.com
 <!--
 **Alisonlll/Alisonlll** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
