@@ -1,7 +1,7 @@
 ### 👋 Hi there, I'm Alison.
  - 📖 Majored in **Foreign linguistics and applied linguistics**.
  - 👀 Interested in **NLP** and **AIGC** (any trendy tech gadgets).
- - 🌱 Also big fan of growing plants :cactus: & flowers :hibiscus:.
+ - 🌱 Also big fan of growing :cactus: **plants** & **flowers** :hibiscus:.
  - 💬 Ask me about how to use codes to amplify the linguistic research.
  - 📫 How to reach me: alisonhjl11@outlook.com
 <!--
