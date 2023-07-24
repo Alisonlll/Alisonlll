@@ -1,8 +1,12 @@
 ### 👋 Hi there, I'm Alison.
- - 📖 Majored in **Foreign linguistics and applied linguistics**.
- - 👀 Interested in **NLP** and **AIGC** (any trendy tech gadgets).
- - 🌱 Also big fan of growing :cactus: **plants** & **flowers** :hibiscus:.
- - 💬 Ask me about how to use codes to amplify the linguistic research.
+ - 📖 MA in **Foreign Linguistics and Applied Linguistics**, intersection of language and technology
+ - 📋 Data Science, Market Research, Digital Marketing
+ - 💡 Use Python to analyze large datasets of consumer behavior data
+ - 💻 **NLP** and **AIGC** enthusiast
+ - 📚 Avid reader and learner
+ - 👀 Always looking for new challenges and opportunities
+ - 🌱 Also big fan of growing :cactus: **plants** & **flowers** :hibiscus:, photography :camera:
+ - 💬 Ask me about how to use Python to amplify linguistic studies.
  - 📫 How to reach me: alisonhjl11@outlook.com
 <!--
 **Alisonlll/Alisonlll** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
