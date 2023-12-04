@@ -5,7 +5,7 @@
  - 💻 **NLP** and **AIGC** enthusiast
  - 📚 Avid reader and learner
  - 👀 Always looking for new challenges and opportunities
- - 🌱 Also big fan of growing :cactus: **plants** & **flowers** :hibiscus:, photography :camera:
+ - 🌱 Also big fan of growing :cactus: **plants** & **flowers** 🌷, photography 📷
  - 💬 Ask me about how to use Python to amplify linguistic studies.
  - 📫 How to reach me: alisonhjl11@outlook.com
 <!--
